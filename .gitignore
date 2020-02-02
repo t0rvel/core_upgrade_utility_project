@@ -1,0 +1,5 @@
+.idea/
+.env/
+.pytest_cache/
+*.ini
+.mypy_cache/
